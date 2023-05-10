@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "HP45 controller parts")(type "KiCad")(uri "${KIPRJMOD}/HP45 controller parts.kicad_sym")(options "")(descr ""))
+)
