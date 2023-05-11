@@ -2754,6 +2754,23 @@
     )
   )
 
+  (sheet (at 21.59 126.365) (size 13.97 3.81) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 8104702c-54b5-43c1-a3c1-86fe1d3f09d5)
+    (property "Sheetname" "HP45" (at 21.59 125.6534 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "HP45.kicad_sch" (at 21.59 130.7596 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "HP45 Standalone V4.02"
+        (path "/1b59a1f1-c87a-43e4-bb42-f8c258f5ff1e" (page "3"))
+      )
+    )
+  )
+
   (sheet (at 21.59 116.84) (size 13.97 3.81) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
